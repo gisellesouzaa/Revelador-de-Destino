@@ -23,29 +23,33 @@ const respostas = [
   "Sinais apontam que sim."
 ]
 
-// Clicar em fazer pergunta
+// Função criada e add ao HTML (atributo "onclick") para ser executada ao clicar no botão. 
 function fazerPergunta() {
   
+  //Caso o cliente não digite a pergunta:
   if(inputPergunta.value == "") {
-    alert("Digite sua pergunta")
+    alert("")
     return
   }
 
-  buttonPerguntar.setAttribute("disabled", true) // ("atributo", valor)
+  //Desabilitar botão
+  buttonPerguntar.setAttribute("disabled", true) 
 
+  //Variável com conteúdo em HTML
   const pergunta = "<div>" + inputPergunta.value + "</div>"
   
-  //gerar numero aleatorio
+  //gerar número aleatório
   const totalRespostas = respostas.length
   const numeroAleatorio = Math.floor(Math.random()*totalRespostas)
 
+  //add o conteúdo ao HTML
   elementoResposta.innerHTML = pergunta + respostas[numeroAleatorio]
-  elementoResposta.style.opacity = 1;
 
-  // Sumir a resposta depois de 3 segundos
+  // ocultar a resposta depois de 3 segundos e reativar o botão
+  elementoResposta.style.opacity = 1;
   setTimeout(function() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled")
-  }, 3000) //setTimeout = {faça algo}, depois de tantos milessegundos
-    
+  }, 3000)
+
 }
