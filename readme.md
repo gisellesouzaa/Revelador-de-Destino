@@ -24,9 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-### Fontes e sites utilizados durante o projeto.
-
-HTML: 
+### Fontes e sites utilizados durante o projeto
 
 <ul>
     <li><a href="https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/#:~:text=O%20evento%20onclick%20executa%20determinada,tag%20de%20abertura%20do%20bot%C3%A3o." target="_blank">Onclick</a>
