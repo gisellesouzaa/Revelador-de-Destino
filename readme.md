@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Link
 
 <p style="font-size: 12px">
-  <a href="https://giselle-souza.github.io/portfolio/" target="_blank">Clique aqui</a> para consultar o seu destino também!</p>
+  <a href="https://giselle-souza.github.io/Revelador-de-Destino/" target="_blank">Clique aqui</a> para consultar o seu destino também!</p>
 
 ---
 
