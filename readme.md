@@ -37,13 +37,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
         Define um cronômetro que executa uma função ou trecho de código especificado assim que o cronômetro expirar.
     <li><a href="https://www.fronteditor.dev/" target="_blank">Editor Front Editor</a>
 </ul>
-
----
-
-
-### Autor
-<img alt="Giselle Souza" title="Giselle Souza" src="https://github.com/giselle-souza.png" height="100" width="100"/>
-
-Feito com ❤️ por Giselle Souza. 👋,
-<br>
-<a href="https://www.linkedin.com/in/giselle-de-souza-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
