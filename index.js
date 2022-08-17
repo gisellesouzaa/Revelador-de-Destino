@@ -28,7 +28,7 @@ function fazerPergunta() {
   
   //Caso o cliente não digite a pergunta:
   if(inputPergunta.value == "") {
-    alert("")
+    alert("Digite sua pergunta")
     return
   }
 
