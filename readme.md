@@ -2,7 +2,7 @@
 <p align="center">Site interativo que responde as perguntas do usuário.</p>
 
 <h1 align="center">
-  <img alt="destino" title="destino" src="destino.gif"/>
+  <img alt="Gif com a animação do projeto" title="destino" src="destino.gif"/>
 </h1>
 
 ---
@@ -10,17 +10,17 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-</ul>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 
 ---
-### Link
 
-<p style="font-size: 12px">
-  <a href="https://gisellesouzaa.github.io/Revelador-de-Destino/" target="_blank">Clique aqui</a> para consultar o seu destino também!</p>
+### 💻 Demostração:
+
+Clique no botão abaixo para consultar o seu destino também!
+<br><br>
+<a href="https://gisellesouzaa.github.io/Revelador-de-Destino/" target="_blank"><img align="center" alt="Testar Aplicação" src="https://img.shields.io/badge/Clique_aqui_para_testar_a_página-8a2be2?style=flat&logoColor=white"></a>
 
 ---
 
@@ -35,5 +35,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
         Adiciona um novo atributo ou modifica o valor de um atributo existente num elemento específico.
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/API/setTimeout" target="_blank">setTimeout():</a>
         Define um cronômetro que executa uma função ou trecho de código especificado assim que o cronômetro expirar.
-    <li><a href="https://www.fronteditor.dev/" target="_blank">Editor Front Editor</a>
 </ul>
+
+---
+
+### Autor:
+
+<img alt="Giselle Souza" title="Giselle Souza" src="https://github.com/gisellesouzaa.png" height="100" width="100"/>
+
+Feito com ❤️ por Giselle Souza. 👋
+<br>
+<a href="https://www.linkedin.com/in/giselle-de-souza-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-flat&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -50,6 +50,6 @@ function fazerPergunta() {
   setTimeout(function() {
     elementoResposta.style.opacity = 0;
     buttonPerguntar.removeAttribute("disabled")
-  }, 3000)
+  }, 5000)
 
 }
